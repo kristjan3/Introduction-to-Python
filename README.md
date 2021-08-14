@@ -1,2 +1,2 @@
 # Introduction-to-Python
-Files for introduction to Python course.
+Please find the files associated with the introduction to Python course attached below.
